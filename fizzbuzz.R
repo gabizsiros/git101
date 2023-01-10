@@ -1,7 +1,7 @@
 #fizzbuzz: make a list that prints the number from 1 to 100,
 # but instead of each number that can be divided by 3, it writes "fizz"
 # for each number that can be divided by 4, it writes "buzz"
-# it a number is dviided by both, it writes "fizzbuzz"
+# it a number is divided by both, it writes "fizzbuzz"
 
 fizzbuzz <- function(upper_limit){
 list <- c()
